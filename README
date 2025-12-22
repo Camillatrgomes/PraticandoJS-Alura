@@ -1,0 +1,23 @@
+Fokus - Otimize sua Produtividade com a Técnica Pomodoro 
+
+Descrição:
+Este projeto é uma aplicação web que utiliza a técnica Pomodoro para ajudar os usuários a otimizar sua produtividade, alternando entre períodos de foco e descanso.
+
+Funcionalidades:
+Temporizador personalizável com opções de foco, descanso curto e descanso longo.
+Interface dinâmica que se adapta ao modo selecionado (foco, descanso curto, descanso longo).
+Controle de música ambiente para auxiliar na concentração.
+
+Tecnologias Utilizadas:
+- HTML
+- CSS
+- JavaScript (com foco na manipulação do DOM)
+
+Principais Conceitos Aplicados:
+Manipulação do DOM:
+InnerHTML: Alteração dinâmica dos textos na tela.
+setAttribute: Modificação dos atributos de elementos HTML, como o caminho das imagens.
+classList: Adição e remoção de classes CSS para alterar o estilo dos elementos.
+querySelector: Seleção de elementos HTML para manipulação.
+EventList: Escuta de eventos (como cliques) para interatividade na página.
+
